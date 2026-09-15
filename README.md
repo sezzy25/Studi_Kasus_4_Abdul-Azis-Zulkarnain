@@ -4,9 +4,9 @@
 
 Yang pertama kita membuat dicrionary, nah ini digunakan untuk menyimpan data buku yang isinya judul,penulis dan tahun terbit
 
-<img width="455" height="205" alt="Screenshot 2026-09-15 200518" src="https://github.com/user-attachments/assets/fd5c95de-c186-48de-ad15-0e29e2268a1c" />
+<img width="392" height="202" alt="Screenshot 2026-09-15 203800" src="https://github.com/user-attachments/assets/5a84ff05-6670-4c95-a67d-c1389d47e22a" />
 
-While true digunakan sebagai perulangan menu sampai user memilih menu keluar, lalu print untuk menampilkan menunya dan input menerima pilihan menu yang user pilih
+While true digunakan sebagai perulangan menu sampai user memilih menu selesai, lalu print untuk menampilkan menunya dan input menerima pilihan menu yang user pilih
 
 <img width="472" height="106" alt="Screenshot 2026-09-15 200842" src="https://github.com/user-attachments/assets/9bfa1b9e-dc50-46e7-a240-d68c0ae9f3db" />
 
@@ -57,6 +57,9 @@ Output tampilkan data setelah diubah
 <img width="411" height="212" alt="Screenshot 2026-09-15 200222" src="https://github.com/user-attachments/assets/8486a21e-2977-44e7-ad60-d177e1f16df6" />
 
 Output Selesai
+
+<img width="317" height="153" alt="Screenshot 2026-09-15 203827" src="https://github.com/user-attachments/assets/50695c17-9c5f-473a-95ab-9cee2a812c37" />
+
 
 
 
