@@ -11,7 +11,7 @@ while True:
     print("3. Ubah penulis buku")
     print("4. Hapus penerbit")
     print("5. Tampilkan data setelah diubah")
-    print("6. Keluar")
+    print("6. Selesai")
 
     pilih = input("Pilih menu: ")
 
